@@ -32,7 +32,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 # Ekran Görüntüleri 
 ![](./src/assets/project-ss/x-register-1.png)
 ![](./src/assets/project-ss/x-login-2.png)
-![](./src/assets/project-ss/x-authentication-3.png)
 ![](./src/assets/project-ss/x-feed-4.png)
 ![](./src/assets/project-ss/x-feed-5.png)
 ![](./src/assets/project-ss/x-feed-delete-6.png)
